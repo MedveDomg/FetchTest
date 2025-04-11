@@ -1,4 +1,4 @@
-package com.example.fetch.ui.theme
+package com.example.fetch.theme
 
 import androidx.compose.ui.graphics.Color
 
